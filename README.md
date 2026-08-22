@@ -1,7 +1,5 @@
-Título
-Proyecto “QUIMI-K”: Sistema “Simulador de laboratorio virtual”
 
-Problema detallado con fuentes
+Proyecto “QUIMI-K”: Sistema “Simulador de laboratorio virtual”
 
 Existe una brecha estructural en el sistema educativo respecto al nulo o limitado acceso a laboratorios de ciencias físicos adecuadamente equipados, situación que afecta principalmente a instituciones con bajos recursos económicos o ubicadas en zonas con infraestructura deficiente. Esto obliga a los docentes a impartir una enseñanza científica de manera exclusivamente teórica, privando a los estudiantes del desarrollo de competencias analíticas y procedimentales. Las consecuencias directas incluyen la desmotivación estudiantil, la desigualdad en la calidad del aprendizaje frente a instituciones mejor equipadas, y el riesgo de que los alumnos lleguen a la educación superior sin habilidades prácticas básicas.
 
