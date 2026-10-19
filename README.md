@@ -1,3 +1,25 @@
+# QUIMI-K — Simulador de laboratorio virtual
+
+## Documentos de la Unidad I
+
+Los PDF de la entrega se encuentran en [docs/unidad-i](docs/unidad-i/):
+
+- [FD01 — Factibilidad](docs/unidad-i/FD01-Informe-de-Factibilidad.pdf)
+- [FD02 — Visión](docs/unidad-i/FD02-Informe-de-Vision.pdf)
+- [FD03 — SRS (requisitos)](docs/unidad-i/FD03-Informe-SRS.pdf)
+- [FD04 — SAD (arquitectura)](docs/unidad-i/FD04-Informe-SAD.pdf)
+
+Los archivos FD01–FD06 en Word y FD01–FD02 en Markdown de la raíz son los **formatos originales del docente**, conservados como referencia. No representan entregables completados del equipo.
+
+## Estado del repositorio
+
+- Semana 1: planteamiento del proyecto en la sección siguiente.
+- Semanas 2 y 3: cuatro informes PDF disponibles; su presencia no implica una validación de su contenido.
+- Semanas 4, 5 y 6: pendiente incorporar el código de la aplicación con base de datos, el despliegue público y las automatizaciones para generar diagramas y manuales técnicos desde Git.
+- Este repositorio todavía no contiene una aplicación ejecutable ni un enlace de despliegue verificado.
+
+## Planteamiento del proyecto
+
 
 Proyecto “QUIMI-K”: Sistema “Simulador de laboratorio virtual”
 
@@ -49,3 +71,4 @@ Normativa Legal Peruana:
 Ley N.° 29733, Ley de Protección de Datos Personales.
 
 Decreto Legislativo N.° 822, Ley sobre el Derecho de Autor.
+
